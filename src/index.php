@@ -1,5 +1,5 @@
 <?php
-  namespace Hvolschenk\Utilities\Array;
+  namespace Hvolschenk\Utilities\Arrays;
 
   function itemByKey(array $array): callable {
     return function(string $key) {
