@@ -1,0 +1,22 @@
+{
+  "name": "hvolschenk/utilities-array",
+  "description": "PHP functional array utilities",
+  "require": {
+    "php": "^7.0"
+  },
+  "keywords": ["php", "array"],
+  "license": "MIT",
+  "homepage": "https://github.com/hvolschenk/utilities-array",
+  "authors": [
+    {
+      "name": "Hendrik Volschenk",
+      "email": "righteous.trespasser@gmail.com",
+      "homepage": "http://hvolschenk.co.za"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/index.php"
+    ]
+  }
+}
